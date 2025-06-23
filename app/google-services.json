@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490367554389",
+    "project_id": "heyloo-39717",
+    "storage_bucket": "heyloo-39717.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490367554389:android:48958892c85db272c2d5dc",
+        "android_client_info": {
+          "package_name": "com.harsh.heyloo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpxYE0A9G4jmU908G0sj2yhp0VtIKZC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
