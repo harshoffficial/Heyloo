@@ -206,31 +206,13 @@ implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 - Custom notification handling
 - Background message processing
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Firebase** for providing excellent backend services
 - **Material Design** for the beautiful UI components
 - **Android Developer Community** for resources and support
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- **Create an issue** on GitHub
-- **Check the documentation** in the code comments
-- **Review Firebase setup** if experiencing backend issues
 
 ## 🔮 Future Enhancements
 
@@ -244,7 +226,3 @@ If you encounter any issues or have questions:
 - [ ] **Offline Support** - Message queuing and sync
 
 ---
-
-**Made with ❤️ by [Your Name]**
-
-*HeyLoo - Connecting people through meaningful conversations*
