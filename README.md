@@ -10,6 +10,11 @@ A modern Android messaging application built with Firebase, HeyLoo is a modern, 
 
 HeyLoo is a feature-rich messaging application that allows users to connect and communicate in real-time. Built with modern Android development practices and Firebase backend services, it provides a seamless messaging experience with user authentication, profile management, and instant notifications.
 
+
+## 📱 Screenshots
+
+*[Add screenshots of your app here]*
+
 ## ✨ Features
 
 ### 🔐 Authentication & User Management
@@ -117,10 +122,6 @@ HeyLoo/
    Firebase Console → Project Settings → Cloud Messaging
    Generate and configure FCM server key
    ```
-
-## 📱 Screenshots
-
-*[Add screenshots of your app here]*
 
 ## 🛠 Technologies Used
 
