@@ -13,7 +13,23 @@ HeyLoo is a feature-rich messaging application that allows users to connect and 
 
 ## 📱 Screenshots
 
-*[Add screenshots of your app here]*
+<p float="left">
+  <img src="images/1.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/2.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/3.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/4.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/5.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/6.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/7.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/8.png"/>
+</p>
 
 ## ✨ Features
 
